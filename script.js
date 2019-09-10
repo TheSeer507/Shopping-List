@@ -5,7 +5,7 @@ const li = document.getElementsByTagName("li");
 const deleteButton = document.getElementsByTagName("i");
 var clearButton = document.getElementById("clear");
 
-<<<<<<< HEAD
+
 // Make the DIV element draggable:
 dragElement(document.getElementById("ulHook"));
 
@@ -50,8 +50,6 @@ function dragElement(elmnt) {
   }
 }
 
-=======
->>>>>>> 6f7ac14bbd07a6c358faaf77a89b3ab65746c889
 function strikeThrough(e) {
     if (e.target.tagName === "LI") {
         e.target.classList.toggle("done");
