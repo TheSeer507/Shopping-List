@@ -32,6 +32,10 @@ section {
 }
 
 input {
+<<<<<<< HEAD
+	width: 300px
+=======
+>>>>>>> 6f7ac14bbd07a6c358faaf77a89b3ab65746c889
   padding: 10px 20px 10px 20px;
   border-radius: 5px;
   border: none;
@@ -56,6 +60,10 @@ button:hover {
 }
 
 .background--lightgreen {
+<<<<<<< HEAD
+	position: absolute;
+=======
+>>>>>>> 6f7ac14bbd07a6c358faaf77a89b3ab65746c889
   max-width: 50%;
   background-color: #DBF4E3;
   border-radius: 5px;
